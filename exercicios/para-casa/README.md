@@ -25,7 +25,7 @@ Formato do notebook
             ○	sort de valores
             ○	remoção de nulos
             ○	lista de colunas
-            ○	uma cópia do dataframe inicial
+            ○	uma gitcópia do dataframe inicial
         ●	reset de index
         ●	apresentar dois insights gerados a partir de dataset
         ●	BÔNUS: traduzir colunas do dataset Titanic do inglês para o português
